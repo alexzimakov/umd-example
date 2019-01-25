@@ -1,0 +1,14 @@
+{
+  "name": "umd-example",
+  "version": "0.0.0",
+  "description": "Simple example using of UMD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Zimakov",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "1.16.1"
+  }
+}
